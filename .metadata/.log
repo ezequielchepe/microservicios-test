@@ -6656,3 +6656,212 @@ java.util.concurrent.TimeoutException
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 14:52:23.620
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 14:52:25.235
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 14:52:27.075
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 14:53:58.507
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 14:53:59.992
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.eclipse.lsp4e 2 0 2023-06-27 14:54:04.258
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 14:54:07.292
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 14:54:08.196
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 14:54:12.738
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 14:55:53.303
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 14:56:11.156
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 15:00:11.019
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 15:04:24.987
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 15:07:09.480
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 15:09:34.273
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 15:15:41.772
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 15:17:14.846
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 15:17:49.966
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 15:17:55.499
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 15:21:07.911
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 15:21:36.741
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 15:24:06.400
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 15:28:23.852
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 15:30:30.432
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 15:32:49.444
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 15:33:48.850
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:07:31.305
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:09:59.900
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:19:17.778
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:19:18.252
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:25:15.552
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:27:25.084
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:30:56.797
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:31:00.821
+!MESSAGE Classpath changed for project: usuario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:38:35.141
+!MESSAGE Classpath changed for project: carro-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:38:36.880
+!MESSAGE Classpath changed for project: carro-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:38:38.726
+!MESSAGE Classpath changed for project: carro-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:38:39.628
+!MESSAGE Classpath changed for project: carro-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:39:51.385
+!MESSAGE Classpath changed for project: carro-service
+
+!ENTRY org.eclipse.lsp4e 2 0 2023-06-27 18:40:31.117
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:40:51.735
+!MESSAGE Classpath changed for project: carro-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:44:15.315
+!MESSAGE Classpath changed for project: carro-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:45:33.759
+!MESSAGE Classpath changed for project: carro-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:46:30.786
+!MESSAGE Classpath changed for project: carro-service
+
+!ENTRY org.eclipse.lsp4e 2 0 2023-06-27 18:47:42.101
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:48:06.220
+!MESSAGE Classpath changed for project: carro-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:49:26.273
+!MESSAGE Classpath changed for project: carro-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:49:41.431
+!MESSAGE Classpath changed for project: carro-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:51:03.858
+!MESSAGE Classpath changed for project: carro-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:54:05.261
+!MESSAGE Classpath changed for project: carro-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:56:37.159
+!MESSAGE Classpath changed for project: carro-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:57:29.809
+!MESSAGE Classpath changed for project: carro-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:58:35.965
+!MESSAGE Classpath changed for project: carro-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 18:58:54.247
+!MESSAGE Classpath changed for project: carro-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-27 19:01:01.550
+!MESSAGE Classpath changed for project: carro-service
+
+!ENTRY org.eclipse.egit.core 4 0 2023-06-27 19:34:44.580
+!MESSAGE An exception occurred during push on URI https://github.com/ezequielchepe/microservicios-test.git: https://github.com/ezequielchepe/microservicios-test.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/ezequielchepe/microservicios-test.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:696)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:638)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:541)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:138)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1537)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2023-06-27 19:34:44.585
+!MESSAGE Can't connect to any repository: https://github.com/ezequielchepe/microservicios-test.git (https://github.com/ezequielchepe/microservicios-test.git: not authorized)
